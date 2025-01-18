@@ -22,6 +22,10 @@ POSTMAN
 
 A step by step series of examples that tell you how to get a development env running
 
+we need to clone the repo
+```
+git clone 
+```
 WE NEED TO CRAETE A SERVER-SIDE APP
 
 ```
@@ -61,10 +65,7 @@ npm install mysql2
  how to run the automated tests for this system
 
 ### Break down into end to end tests
-Clone the Repo
-```
-git clone
-```
+
 Create the Database
 Log into MySQL using the terminal:
 ```
